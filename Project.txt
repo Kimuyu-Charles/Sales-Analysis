@@ -1,0 +1,10 @@
+Dataset for Project - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+Explore data distribution. Produce summary statistiscs , visualization, and interpretative text describing the distribution of the ship mode, segment, city, sales, quantity, discount and profit
+Explore difference btn subsets- separate the data into subsets based on quantity and city, then demonstrate how the split impacts the distribution of sales
+Explore correlation- find the features that have the strongest positive and negative correlation with salesand produce plots representing these relationships
+Engineer and explore a new feature. Create a new feature, which reps the difference btn two significant columns, and plot the rship btn the new feature and sales.
+Visualization- Include 3 vizualizations of different findings 
+Code Quality- Arrangement of your code and how interpretable it is, use of correct syntax and indention
+Github repository- ensure all your code is uploaded on github 
+
