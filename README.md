@@ -91,11 +91,11 @@ business-first workflow:
 
 ## Repository Structure
 
-_Currently:_
-
-- `Sample - Superstore.csv` – transactional sales dataset.   
-- `sales analysis.ipynb` – main notebook with sales performance analysis and visualisations.
-- `.ipynb_checkpoints/` – automatic Jupyter checkpoints (can be ignored in Git).
+- `data/`
+  - `Sample - Superstore.csv` – transactional sales dataset.
+- `notebooks/`
+  - `sales_analysis.ipynb` – main notebook with sales performance analysis and visualisations.
+- `README.md` – project overview and instructions.
 
 ---
 
