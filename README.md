@@ -95,7 +95,6 @@ _Currently:_
 
 - `Sample - Superstore.csv` – transactional sales dataset.   
 - `sales analysis.ipynb` – main notebook with sales performance analysis and visualisations.
-- `analysis.ipynb` – exploratory/working notebook.
 - `.ipynb_checkpoints/` – automatic Jupyter checkpoints (can be ignored in Git).
 
 ---
